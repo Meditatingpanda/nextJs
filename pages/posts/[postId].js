@@ -1,7 +1,7 @@
 const Post = () => {
   return <div>Enter</div>;
 };
-
+//ADDED DYNAMIC PATH
 export default Post;
 export async function getStaticPaths() {
   return {
